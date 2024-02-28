@@ -1,4 +1,4 @@
-package course_java;
+package tratamento_strings;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		
+		//TRATAMENTO COM STRINGS
 
 		System.out.println("Ola Mundo");
 		int a = 32;
@@ -51,31 +53,40 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		System.out.printf("\nUS decimal point: %.3f\n", measure);
 
-		
-		//Scanner
+		// Scanner
 		Scanner opa = new Scanner(System.in);
-		
-		//para guardar variaveis
-		//guardar String sc.next
-		//guardar int sc.nextInt
-		//guardar double sc.nextDouble
-		//guardar char sc.next().charAt(0)
+
+		// para guardar variaveis
+		// guardar String sc.next
+		// guardar int sc.nextInt
+		// guardar double sc.nextDouble
+		// guardar char sc.next().charAt(0)
 		String x;
 		int o;
 		double l;
 		x = opa.next();
 		o = opa.nextInt();
 		l = opa.nextDouble();
-		
-		
 
 		System.out.println("Dados digitados:");
 		System.out.println(x);
 		System.out.println(o);
 		System.out.println(l);
-		
+
 		opa.close();
 
+		Scanner sc = new Scanner(System.in);
+		
+		String s1, s2, s3;
+		s1 = sc.nextLine();
+		s2 = sc.nextLine();
+		s3 = sc.nextLine();
+		System.out.println("DADOS DIGITADOS:");
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
+		sc.close();
+		
 	}
 
 }
