@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exec1 {
+public class exec_1 {
 
 	public static void main(String[] args) {
 		
