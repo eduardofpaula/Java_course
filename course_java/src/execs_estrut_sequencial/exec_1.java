@@ -1,3 +1,4 @@
+package execs_estrut_sequencial;
 import java.util.Scanner;
 
 public class exec_1 {

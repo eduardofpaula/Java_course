@@ -1,3 +1,4 @@
+package execs_estrut_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
