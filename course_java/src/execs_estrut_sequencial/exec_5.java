@@ -23,7 +23,9 @@ public class exec_5 {
 		
 		valorFinal = (num1 * valor1) + (num2 * valor2);
 		
-		System.out.printf("VALOR A PAGAR = %.2f", valorFinal);
+		System.out.println("CÓDIGO PRODUTO 1: " + cod1);
+		System.out.println("CÓDIGO PRODUTO 2: " + cod2);
+		System.out.printf("\nVALOR A PAGAR = %.2f", valorFinal);
 		
 		sc.close(); 
 		
