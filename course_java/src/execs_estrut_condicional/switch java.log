@@ -1,0 +1,16 @@
+SINTAXE SWITCH
+
+	switch ( expressão ou variavel a ser utilizada) {
+		case valor:
+			comando1;
+			comando2;
+			break; // parar o codigo
+		case valor2:
+			comando1
+			comando2
+			break; // parar o codigo
+		case valor3:
+			comando1
+			comando2
+			break; // parar o codigo
+		
