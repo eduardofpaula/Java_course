@@ -1,4 +1,4 @@
-package execs_estrut_sequencial;
+package estructure_in_out;
 import java.util.Scanner;
 
 public class exec_1 {

@@ -1,4 +1,4 @@
-package funcoes_matematicas;
+package mathematical_functions;
 
 public class funcoes_matematicas {
 

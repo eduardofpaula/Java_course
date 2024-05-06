@@ -1,0 +1,19 @@
+Estrutura de repetição FOR:
+
+Serve para repetir um bloco de código um número específico de vezes.
+Usa quando se sabe previamente quantidade de repetiçoes ou intervadlo de valores.
+
+Sintaxe:
+    for (variável de controle; condição; incremento) {
+    //código a ser repetido
+}
+    for (inicio ; condição ; incremento) {
+        comando 1;
+        comando 2;
+    }
+
+inicio: Executa somente a primeira vez, antes de iniciar o laço - usado pra iniciar a variável de controle
+condição: True: executa o bloco de código, False: sai do laço
+incremento: Executa toda vez que o bloco de código é executado, usado para incrementar a variável de controle
+
+*ótimo para repetições baseadas em contagem (progressiva ou regressiva)

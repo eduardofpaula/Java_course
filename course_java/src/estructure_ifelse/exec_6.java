@@ -1,4 +1,4 @@
-package execs_estrut_condicional;
+package estructure_ifelse;
 
 import java.util.Locale;
 import java.util.Scanner;

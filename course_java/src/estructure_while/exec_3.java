@@ -1,6 +1,5 @@
-package execs_estrut_repetitivas;
+package estructure_while;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class exec_3 {

@@ -1,4 +1,4 @@
-package tratamento_strings;
+package string_treatment;
 
 import java.util.Locale;
 import java.util.Scanner;

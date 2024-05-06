@@ -1,4 +1,4 @@
-package execs_estrut_repetitivas;
+package estructure_while;
 
 import java.util.Scanner;
 

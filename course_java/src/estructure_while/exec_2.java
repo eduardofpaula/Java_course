@@ -1,4 +1,4 @@
-package execs_estrut_repetitivas;
+package estructure_while;
 
 import java.util.Scanner;
 
@@ -25,10 +25,12 @@ public class exec_2 {
                 System.out.println("Fourth");
                 break;
             }
+
+            System.out.println("Numero Invalido");
         }
 
         sc.close();
 
-        System.out.println("Numero Invalido");
+        
     }
 }
