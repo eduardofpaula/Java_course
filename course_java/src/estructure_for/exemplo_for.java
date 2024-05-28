@@ -7,6 +7,7 @@ public class exemplo_for {
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Digite a quantidade de elementos a serem somados: ");
         int n = sc.nextInt();
         int soma = 0;
 
@@ -15,8 +16,8 @@ public class exemplo_for {
             soma += x;
         }
 
-        System.out.println("Soma: " + soma);
-
         sc.close();
+
+        System.out.println("Soma: " + soma);
     }
 }
