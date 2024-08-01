@@ -2,13 +2,13 @@ package estructure_for;
 
 import java.util.Scanner;
 
-public class exec_1 {
-    public static void main(String[] args){
-
+public class exec_6 {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt();
-        for (int i=1; i <= x;i++){
-            if(x % 2 != 0) {
+
+        int n = sc.nextInt();
+        for (int i = 1; i <= n; i++) {
+            if(n % i == 0){
                 System.out.println(i);
             }
         }
