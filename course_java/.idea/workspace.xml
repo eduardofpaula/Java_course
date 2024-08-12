@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: execs for">
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/03-correcao-exercicios-fixacao.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecWithPOO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecWithoutPOO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/POO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/basicPOO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/execsTH/Exemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/execsTH/TouchHealth2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/4-execsEstruturaFor.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/4-execsEstruturaFor.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/exemplo_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exemplo_for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_for/sintaxe_for" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/sintaxe_for" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/2-execsEstruturaCondicional.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/2-execsEstruturaCondicional.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/escopo e inicialização" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/escopo e inicialização" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/estruturaCondicional.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/estruturaCondicional.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/switch java.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/switch java.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/ternaria java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/ternaria java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/1-execsEstruturaSequencial.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/1-execsEstruturaSequencial.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/estruturaSequencial.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/estruturaSequencial.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/3-execsEstruturaWhile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/3-execsEstruturaWhile.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/estruturasRepetitivas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/estruturasRepetitivas.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/repetitive_structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/repetitive_structure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estructure_while/while(enquanto)" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/while(enquanto)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execsTH/Exemplo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execsTH/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/execsTH/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execsTH/TouchHealth2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathematical_functions/funcoes_matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/mathematical_functions/funcoes_matematicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathematical_functions/introducaoJava.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/mathematical_functions/introducaoJava.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursos/topicosBasicos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/recursos/topicosBasicos.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_treatment/FunctionsSrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/FunctionsSrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_treatment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="4cd0db4654f1c4f9683f7fa73717292350dae828" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOLMz-Jc5qTtrw&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1712439865563
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eduardofpaula/Java_course.git&quot;,
+    &quot;accountId&quot;: &quot;28d39a73-6a4d-4204-a512-630160c522cb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dz2z3OyeeALf07LtPKhksYGTXB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ExecWithPOO.executor": "Run",
+    "Application.Exemplo.executor": "Run",
+    "Application.Exemplo_for.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.FunctionsSrings.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.TouchHealth.executor": "Run",
+    "Application.TouchHealth1.executor": "Run",
+    "Application.TouchHealth2.executor": "Run",
+    "Application.exec_1.executor": "Run",
+    "Application.exec_2.executor": "Run",
+    "Application.exec_3.executor": "Run",
+    "Application.exec_4.executor": "Run",
+    "Application.exec_5.executor": "Run",
+    "Application.exec_6.executor": "Run",
+    "Application.exec_7.executor": "Run",
+    "Application.exemplo_for.executor": "Run",
+    "Application.teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/Java_course/course_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\mathematical_functions" />
+      <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\estructure_ifelse" />
+      <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\estructure_while" />
+      <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\estructure_in_out" />
+      <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\estructure_for" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="" />
+      <created>1710996850009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710996850009</updated>
+      <workItem from="1710996852361" duration="1953000" />
+      <workItem from="1710999028985" duration="40000" />
+      <workItem from="1711021739716" duration="83000" />
+      <workItem from="1711023114894" duration="774000" />
+      <workItem from="1711036541553" duration="265000" />
+      <workItem from="1711036824179" duration="105000" />
+      <workItem from="1711036945559" duration="35000" />
+      <workItem from="1711036998364" duration="2352000" />
+      <workItem from="1711056931000" duration="379000" />
+      <workItem from="1711057328149" duration="3131000" />
+      <workItem from="1711498798526" duration="29000" />
+      <workItem from="1711498844224" duration="175000" />
+      <workItem from="1711502165064" duration="32000" />
+      <workItem from="1711576524135" duration="7000" />
+      <workItem from="1712274382236" duration="38000" />
+      <workItem from="1712433019287" duration="1800000" />
+      <workItem from="1715088991128" duration="1602000" />
+      <workItem from="1715126489325" duration="103000" />
+      <workItem from="1715608676735" duration="2781000" />
+      <workItem from="1715860579261" duration="19000" />
+      <workItem from="1716902880849" duration="397000" />
+      <workItem from="1716903303694" duration="677000" />
+      <workItem from="1716904323591" duration="9010000" />
+      <workItem from="1716939282852" duration="796000" />
+      <workItem from="1720545992444" duration="2326000" />
+      <workItem from="1720569196224" duration="1000" />
+      <workItem from="1720571228339" duration="136000" />
+      <workItem from="1722348729269" duration="64000" />
+      <workItem from="1722348822332" duration="13492000" />
+      <workItem from="1722429225902" duration="6408000" />
+      <workItem from="1722466790050" duration="24294000" />
+      <workItem from="1722572580937" duration="50000" />
+      <workItem from="1722611927258" duration="15226000" />
+      <workItem from="1722988826079" duration="6179000" />
+      <workItem from="1723157742299" duration="5188000" />
+      <workItem from="1723206664774" duration="6023000" />
+      <workItem from="1723223744752" duration="1096000" />
+      <workItem from="1723419771512" duration="10633000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: execs for">
+      <option name="closed" value="true" />
+      <created>1716940020294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716940020301</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: execs for">
+      <option name="closed" value="true" />
+      <created>1722529292932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722529292932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: execs for" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: execs for" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="course_java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/Java_course/course_java}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
