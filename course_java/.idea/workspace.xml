@@ -5,60 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: execs for">
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/03-correcao-exercicios-fixacao.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecWithPOO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecWithoutPOO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/POO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/basicPOO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_java/execsTH/Exemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_java/execsTH/TouchHealth2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/4-execsEstruturaFor.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/4-execsEstruturaFor.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exec_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exec_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/exemplo_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/exemplo_for.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_for/sintaxe_for" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_for/sintaxe_for" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/2-execsEstruturaCondicional.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/2-execsEstruturaCondicional.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/escopo e inicialização" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/escopo e inicialização" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/estruturaCondicional.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/estruturaCondicional.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/exec_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/switch java.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/switch java.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_ifelse/ternaria java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_ifelse/ternaria java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/1-execsEstruturaSequencial.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/1-execsEstruturaSequencial.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/estruturaSequencial.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/estruturaSequencial.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_in_out/exec_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_in_out/exec_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/3-execsEstruturaWhile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/3-execsEstruturaWhile.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/estruturasRepetitivas.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/estruturasRepetitivas.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/exec_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/exec_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/repetitive_structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/repetitive_structure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructure_while/while(enquanto)" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/estructure_while/while(enquanto)" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/execsTH/Exemplo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/execsTH/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/execsTH/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/execsTH/TouchHealth2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathematical_functions/funcoes_matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/mathematical_functions/funcoes_matematicas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathematical_functions/introducaoJava.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/mathematical_functions/introducaoJava.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursos/topicosBasicos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/recursos/topicosBasicos.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_treatment/FunctionsSrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/FunctionsSrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_treatment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_java/string_treatment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/Calculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/Radius1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Calculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/POO.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_POO/POO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,47 +69,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ExecWithPOO.executor": "Run",
-    "Application.Exemplo.executor": "Run",
-    "Application.Exemplo_for.executor": "Run",
-    "Application.Functions.executor": "Run",
-    "Application.FunctionsSrings.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Teste.executor": "Run",
-    "Application.TouchHealth.executor": "Run",
-    "Application.TouchHealth1.executor": "Run",
-    "Application.TouchHealth2.executor": "Run",
-    "Application.exec_1.executor": "Run",
-    "Application.exec_2.executor": "Run",
-    "Application.exec_3.executor": "Run",
-    "Application.exec_4.executor": "Run",
-    "Application.exec_5.executor": "Run",
-    "Application.exec_6.executor": "Run",
-    "Application.exec_7.executor": "Run",
-    "Application.exemplo_for.executor": "Run",
-    "Application.teste.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/Java_course/course_java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ExecProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecWithPOO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo_for.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionsSrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TouchHealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TouchHealth1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TouchHealth2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exec_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exemplo_for.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/springbootlab4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\mathematical_functions" />
@@ -218,6 +174,16 @@
       <workItem from="1723206664774" duration="6023000" />
       <workItem from="1723223744752" duration="1096000" />
       <workItem from="1723419771512" duration="10633000" />
+      <workItem from="1723466600790" duration="160000" />
+      <workItem from="1723589558614" duration="42000" />
+      <workItem from="1723612923217" duration="94000" />
+      <workItem from="1723661674785" duration="2914000" />
+      <workItem from="1723679384502" duration="4117000" />
+      <workItem from="1723726649493" duration="414000" />
+      <workItem from="1723727085895" duration="81000" />
+      <workItem from="1723727179595" duration="113000" />
+      <workItem from="1723727301462" duration="710000" />
+      <workItem from="1723763083116" duration="5727000" />
     </task>
     <task id="LOCAL-00001" summary="feat: execs for">
       <option name="closed" value="true" />

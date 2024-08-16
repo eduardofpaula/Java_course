@@ -43,3 +43,7 @@ Métodos são funções que representam as ações do Objeto.
 ## POO na praticá / Exemplo de Classe
 
 ![img.png](img.png)
+
+**Métodos Object**
+
+- toString() = Transforma a variavel em String
