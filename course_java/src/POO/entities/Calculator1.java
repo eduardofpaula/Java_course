@@ -1,4 +1,4 @@
-package basic_POO.entities;
+package POO.entities;
 
 public class Calculator1 {
 

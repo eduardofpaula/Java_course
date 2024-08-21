@@ -1,6 +1,4 @@
-package basic_POO.entities;
-
-import basic_POO.ExecProduct;
+package POO.entities;
 
 public class Product {
     //Atributos

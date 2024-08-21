@@ -1,6 +1,6 @@
-package basic_POO;
+package POO;
 
-import basic_POO.entities.Triangle;
+import POO.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

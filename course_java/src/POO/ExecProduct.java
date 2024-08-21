@@ -1,6 +1,6 @@
-package basic_POO;
+package POO;
 
-import basic_POO.entities.Product;
+import POO.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -10,8 +10,6 @@ public class ExecProduct {
         Locale.setDefault(Locale.US);
 
         Product product;
-        product = new Product();
-        product = new Product();
         product = new Product();
 
         Scanner sc = new Scanner(System.in);

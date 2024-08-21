@@ -1,4 +1,4 @@
-package basic_POO;
+package POO;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ public class Calculator1 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        basic_POO.entities.Calculator1 calc = new basic_POO.entities.Calculator1();
+        POO.entities.Calculator1 calc = new POO.entities.Calculator1();
 
         System.out.println("Enter radius: ");
         double radius = sc.nextDouble();

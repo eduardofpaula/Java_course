@@ -4,16 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: execs for">
-      <change afterPath="$PROJECT_DIR$/../.idea/Java_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/Calculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/ExecProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/Radius1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Calculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_POO/entities/Product.java" afterDir="false" />
+    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: studies 15/08">
+      <change afterPath="$PROJECT_DIR$/src/POO/POO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/POO.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_POO/POO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/03-correcao-exercicios-fixacao.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/correcaoExecsPOO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Calculator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecWithPOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecWithPOO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecWithoutPOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecWithoutPOO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/POO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/Radius1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Radius1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/basicPOO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/basicPOO.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Calculator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_POO/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/img.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,48 +80,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ExecProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExecWithPOO.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exemplo_for.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionsSrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TouchHealth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TouchHealth1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TouchHealth2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exec_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exemplo_for.executor&quot;: &quot;Run&quot;,
-    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/springbootlab4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Exec1.executor": "Run",
+    "Application.Exec2.executor": "Run",
+    "Application.Exec3.executor": "Run",
+    "Application.ExecProduct.executor": "Run",
+    "Application.ExecWithPOO.executor": "Run",
+    "Application.Exemplo.executor": "Run",
+    "Application.Exemplo_for.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.FunctionsSrings.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "Application.TouchHealth.executor": "Run",
+    "Application.TouchHealth1.executor": "Run",
+    "Application.TouchHealth2.executor": "Run",
+    "Application.exec_1.executor": "Run",
+    "Application.exec_2.executor": "Run",
+    "Application.exec_3.executor": "Run",
+    "Application.exec_4.executor": "Run",
+    "Application.exec_5.executor": "Run",
+    "Application.exec_6.executor": "Run",
+    "Application.exec_7.executor": "Run",
+    "Application.exemplo_for.executor": "Run",
+    "Application.teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/SpringBoot_Lab4/springbootlab4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\eduar\OneDrive - Fatec Centro Paula Souza\Documentos\REPOSITORIOS\Java_course\course_java\src\mathematical_functions" />
@@ -183,7 +197,16 @@
       <workItem from="1723727085895" duration="81000" />
       <workItem from="1723727179595" duration="113000" />
       <workItem from="1723727301462" duration="710000" />
-      <workItem from="1723763083116" duration="5727000" />
+      <workItem from="1723763083116" duration="6394000" />
+      <workItem from="1723819386738" duration="9105000" />
+      <workItem from="1723839117093" duration="270000" />
+      <workItem from="1723849743302" duration="377000" />
+      <workItem from="1723860494300" duration="66000" />
+      <workItem from="1723864369502" duration="1899000" />
+      <workItem from="1724194556317" duration="92000" />
+      <workItem from="1724198137833" duration="4492000" />
+      <workItem from="1724272397865" duration="1792000" />
+      <workItem from="1724277664241" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="feat: execs for">
       <option name="closed" value="true" />
@@ -201,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722529292932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: studies 15/08">
+      <option name="closed" value="true" />
+      <created>1723770134225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723770134225</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +264,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: execs for" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: execs for" />
+    <MESSAGE value="feat: studies 15/08" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: studies 15/08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
