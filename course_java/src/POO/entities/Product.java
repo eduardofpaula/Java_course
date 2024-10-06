@@ -6,6 +6,12 @@ public class Product {
     public double price;
     public int quantity;
 
+    public Product(String name, double price, int quantity){
+        this.name = name;
+        this.price = price;
+        this.quantity = quantity;
+    }
+
     // Metodos , acesso, tipo metodo, nome
     public double TotalValueInStock(){
         return price * quantity;
