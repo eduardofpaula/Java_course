@@ -13,15 +13,15 @@ public class Exec1 {
         int n = sc.nextInt();
         Product[] vect = new Product[n];
 
-        for (int i=0; i< vect.length; i++){
+        for (int i = 0; i < vect.length; i++) {
             // quebra de linha
             sc.nextLine();
             String name = sc.nextLine();
             double price = sc.nextDouble();
-            vect[i] = new Product(name,price);
+            vect[i] = new Product(name, price);
         }
         double soma = 0;
-        for(int i=0;i<vect.length;i++){
+        for (int i = 0; i < vect.length; i++) {
             soma += vect[i].getPrice();
         }
 

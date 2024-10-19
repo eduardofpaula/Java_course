@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: studies 15/08">
-      <change afterPath="$PROJECT_DIR$/src/POO/POO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/entities/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/entities/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/execs/Exec3.java" afterDir="false" />
+    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: exercicios de POO">
+      <change afterPath="$PROJECT_DIR$/src/Array/Execs/MaiorPosicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/03-correcao-exercicios-fixacao.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/correcaoExecsPOO.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Calculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecWithPOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecWithPOO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/ExecWithoutPOO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ExecWithoutPOO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/POO.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/Radius1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/Radius1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/basicPOO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/basicPOO.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Calculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/entities/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_POO/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Execs/Exec1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Execs/Exec1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +67,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Alturas.executor": "Run",
+    "Application.ArraySum.executor": "Run",
     "Application.Exec1.executor": "Run",
     "Application.Exec2.executor": "Run",
     "Application.Exec3.executor": "Run",
+    "Application.Exec4.executor": "Run",
+    "Application.ExecBank.executor": "Run",
     "Application.ExecProduct.executor": "Run",
     "Application.ExecWithPOO.executor": "Run",
     "Application.Exemplo.executor": "Run",
@@ -93,6 +81,10 @@
     "Application.Functions.executor": "Run",
     "Application.FunctionsSrings.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainRoberta.executor": "Run",
+    "Application.MaiorPosicao.executor": "Run",
+    "Application.NegativeNumbers.executor": "Run",
+    "Application.NumerosPares.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.TouchHealth.executor": "Run",
@@ -115,7 +107,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/SpringBoot_Lab4/springbootlab4",
+    "last_opened_file_path": "C:/Users/eduar/OneDrive - Fatec Centro Paula Souza/Documentos/REPOSITORIOS/Java_course/course_java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,8 +129,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -206,7 +198,31 @@
       <workItem from="1724194556317" duration="92000" />
       <workItem from="1724198137833" duration="4492000" />
       <workItem from="1724272397865" duration="1792000" />
-      <workItem from="1724277664241" duration="2425000" />
+      <workItem from="1724277664241" duration="3038000" />
+      <workItem from="1724280748996" duration="1364000" />
+      <workItem from="1724373258452" duration="2487000" />
+      <workItem from="1724691491325" duration="646000" />
+      <workItem from="1724768195296" duration="593000" />
+      <workItem from="1724886201048" duration="3728000" />
+      <workItem from="1724934724204" duration="1190000" />
+      <workItem from="1725043268297" duration="9121000" />
+      <workItem from="1725082078790" duration="330000" />
+      <workItem from="1725140701372" duration="606000" />
+      <workItem from="1725992702016" duration="2035000" />
+      <workItem from="1726008638213" duration="17000" />
+      <workItem from="1726069091714" duration="2628000" />
+      <workItem from="1726095636202" duration="349000" />
+      <workItem from="1726961811874" duration="1513000" />
+      <workItem from="1727025309911" duration="29000" />
+      <workItem from="1728073387035" duration="9583000" />
+      <workItem from="1728154948187" duration="905000" />
+      <workItem from="1728159408485" duration="11368000" />
+      <workItem from="1728241456942" duration="690000" />
+      <workItem from="1728263670205" duration="82000" />
+      <workItem from="1729148033899" duration="703000" />
+      <workItem from="1729209370793" duration="14000" />
+      <workItem from="1729288522282" duration="3206000" />
+      <workItem from="1729306699716" duration="5455000" />
     </task>
     <task id="LOCAL-00001" summary="feat: execs for">
       <option name="closed" value="true" />
@@ -232,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723770134225</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: exercicios de POO">
+      <option name="closed" value="true" />
+      <created>1724280212261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724280212261</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +289,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: execs for" />
     <MESSAGE value="feat: studies 15/08" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: studies 15/08" />
+    <MESSAGE value="feat: exercicios de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: exercicios de POO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
