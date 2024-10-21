@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: exercicios de POO">
-      <change afterPath="$PROJECT_DIR$/src/Array/Execs/MaiorPosicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ee985831-c8bc-48db-a9bf-97cc78798a39" name="Changes" comment="feat: exercicios de array">
+      <change afterPath="$PROJECT_DIR$/src/Array/Execs/AbaixoMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Execs/MaisVelho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Execs/MediaPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Execs/SomaVetores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Execs/Exec1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Execs/Exec1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AbaixoMedia.executor": "Run",
     "Application.Alturas.executor": "Run",
     "Application.ArraySum.executor": "Run",
     "Application.Exec1.executor": "Run",
@@ -83,9 +85,12 @@
     "Application.Main.executor": "Run",
     "Application.MainRoberta.executor": "Run",
     "Application.MaiorPosicao.executor": "Run",
+    "Application.MaisVelho.executor": "Run",
+    "Application.MediaPares.executor": "Run",
     "Application.NegativeNumbers.executor": "Run",
     "Application.NumerosPares.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.SomaVetores.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.TouchHealth.executor": "Run",
     "Application.TouchHealth1.executor": "Run",
@@ -222,7 +227,9 @@
       <workItem from="1729148033899" duration="703000" />
       <workItem from="1729209370793" duration="14000" />
       <workItem from="1729288522282" duration="3206000" />
-      <workItem from="1729306699716" duration="5455000" />
+      <workItem from="1729306699716" duration="5610000" />
+      <workItem from="1729363475951" duration="1246000" />
+      <workItem from="1729459560639" duration="10170000" />
     </task>
     <task id="LOCAL-00001" summary="feat: execs for">
       <option name="closed" value="true" />
@@ -256,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724280212261</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: exercicios de array">
+      <option name="closed" value="true" />
+      <created>1729315062217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729315062217</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +305,8 @@
     <MESSAGE value="feat: execs for" />
     <MESSAGE value="feat: studies 15/08" />
     <MESSAGE value="feat: exercicios de POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: exercicios de POO" />
+    <MESSAGE value="feat: exercicios de array" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: exercicios de array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
