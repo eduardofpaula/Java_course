@@ -1,6 +1,5 @@
 package Array.Execs;
 
-import java.sql.Array;
 import java.util.Locale;
 import java.util.Scanner;
 
